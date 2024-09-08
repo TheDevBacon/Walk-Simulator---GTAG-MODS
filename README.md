@@ -1,2 +1,2 @@
-# Walk-Simulator---GTAG-MODS
+# Walk-Simulator
 A Mod to play gtag on pc!
